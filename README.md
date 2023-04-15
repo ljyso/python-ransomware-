@@ -5,3 +5,5 @@
 python版本
 版本：python3
 代码不是本人编写是反编译python勒索病毒 我的联系方式 qq 1775879414 或者加qq群交流 773635479
+仓库地址 https://github.com/ljyso/python-ransomware-/tree/master
+
